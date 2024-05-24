@@ -1,0 +1,11 @@
+Architecture: all
+Description: C++ library
+ it's solving
+Maintainer: eisnersandy2@gmail.com
+Package: solver
+Pre-Depends: cmake >= 3.0
+Priority: optional
+Section: devel
+Version: 0.1.1-1
+Installed-Size: 4
+
